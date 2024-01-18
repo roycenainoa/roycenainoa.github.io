@@ -9,23 +9,36 @@ labels:
   - Engineering
 ---
 
-*JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.*
+*"JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it." - Douglas Crockford*
 
-What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?*
+Since I began learning Javascript, much of what I learned from other programming languages such as C, C++, and Python came to mind while working through the FreeBootCamp. Variable assignments, functions, arrays, objects, loops and much more. There are many similarities that I could recognize from other programming languages. This is the first time using Javascript, but after using C for years, it didn't take long for me to become comfortable with the syntax. In fact, in many ways so far Javascript simplifies the syntax while improving on the functionality of coding. Some lines like C still need to end with a semicolon. However, creating objects and functions has never felt so intuitive. 
 
-Since I began learning Javascript, many analogies from other programming languages such as C, C++, and Python came to mind when I first  went through the FreeBootCamp. Variable assignments, functions, arrays, objects, loops and much more. There are many similarities that I could recognize from other programming languages.
+## Functions and syntax in C and Javascript
 
-This is the first time using Javascript, but after using C for years, it didn't take long for me to become comfortable with the syntax. In fact, in many ways so far Javascript simplifies the syntax. Some lines like C still need to end with a semicolon. However, creating objects and functions has never felt so intuitive.
+### Example: JavaScript Function
 
-## In the context of programming
+```javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+```
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+### Example: C Function
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+```c
+#include <stdio.h>
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+void greet(char* name) {
+    printf("Hello, %s!\n", name);
+}
+```
+In my opinion, the syntax is straightforward. In the Javascript codeblock, you don't have to specify the type of the name parameter. Plus, the function directly returns the formatted string. In C, you must include standard libraries (like stdio.h for input/output functions) and explicitly declare the type of each parameter (char* name in this case). So setting up the function in C can take more time.
 
-## In the context of engineering
+## Features in Javascript
+
+I've talked about some of the syntax Javascript has that I enjoy, but there are many other features that I appreciate in Javascript (also features that I'm not aware of yet) that I would like to highlight. 
+
+## Athletic Software Engineering
 
 Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
