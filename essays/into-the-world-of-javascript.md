@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Into the world of Javascript"
+title: "Into the World of Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
@@ -12,8 +12,6 @@ labels:
 *"JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it." - Douglas Crockford*
 
 Since I began learning Javascript, much of what I learned from other programming languages such as C, C++, and Python came to mind while working through the FreeBootCamp. Variable assignments, functions, arrays, objects, loops and much more. There are many similarities that I could recognize from other programming languages. This is the first time using Javascript, but after using C for years, it didn't take long for me to become comfortable with the syntax. In fact, in many ways so far Javascript simplifies the syntax while improving on the functionality of coding. Some lines like C still need to end with a semicolon. However, creating objects and functions has never felt so intuitive. 
-
-## Functions and syntax in C and Javascript
 
 ### Example: JavaScript Function
 
@@ -36,28 +34,12 @@ In my opinion, the syntax is straightforward. In the Javascript codeblock, you d
 
 ## Features in Javascript
 
-I've talked about some of the syntax Javascript has that I enjoy, but there are many other features that I appreciate in Javascript (also features that I'm not aware of yet) that I would like to highlight. 
+I've talked about some of the syntax Javascript has that I enjoy, but there are many other features that I appreciate in Javascript (also features that I'm not aware of yet). In the ES6 tutorial for the Javascript FreeBootCamp, ES6 introduced the arrow functions. It's a more concise way to write functions. They allow for shorter syntax compared to original function expressions which I find useful in callbacks and methods. There are also the `let` and `const` variable declarations.  `let` allows for block-scoped variables, reducing the problems associated with the global scope of `var`. Although each language that I've learned thus far has their strengths and weaknesses, I don't think Javascript is particularly "better" than another programming language, maybe in some areas, but it depends on the application. Speaking of features, I haven't been able to utilize tools such as arrow functions in the WODs due to the crunch time, but that brings me to the next topic.
 
 ## Athletic Software Engineering
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+In the software engineering course, it is believed that problem solving and programming skills are improved through time and practice. This practice with the workout-of-the-day (WOD) where we solve a timed programming problem is proven to improve one's problem solving skills. Not to mention, nailing those job interviews. I find the WODs to be useful. It's rewarding to solve the problem, but at the same time, they're a bit stressful because I have often ran into a DNF which is a "Did-not-finish". The WODs are pass or fail, with no leniancy with moderate mistakes, so there is a bit of pressure to make sure the code solves the problem. It might be too early for me to have an impression on the practice WODs since at the time of writing this, I haven't done an in-class graded WOD. However, I do think the process will work for me as long as I put in the time and practice.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+## Wrapping up
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Overall, Javascript is a very nice tool that I would like to become efficient in. There are many skills in software engineering I would like to hone throughout the semester and I believe there will be many opportunities to do so.
