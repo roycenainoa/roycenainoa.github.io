@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/keck-observatory.png
 title: "Laser Safety System Upgrade"
-date: 2023
+date: 2021
 published: true
 labels:
   - PLC Ladder Logic
