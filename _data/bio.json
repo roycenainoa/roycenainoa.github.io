@@ -10,14 +10,14 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "roycenainoa", "url": "http://github.com/roycenainoa" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/royce-cornwell" }
+      { "network": "linkedin", "username": "roycecornwell", "url": "http://linkedin.com/in/royce-cornwell" }
     ]
   },
   "interests": [
     { "name": "Machine Learning" },
     { "name": "Software Engineering" },
     { "name": "Circuit Design" },
-    { "name": "Language Learning" },
+    { "name": "Language Studies" },
     { "name": "Full Stack Web Development" }
   ],
   "skills": [
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Git/GitHub", "g++", "CLion" ]
     }
   ],
   "education": [
@@ -43,69 +43,56 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "University of Hawaii at Manoa",
+      "position": "NHSEMP Math Tutor",
+      "website": "https://hawaii.edu/nhsemp",
+      "startDate": "2021-09-04",
+      "endDate": "2022-05-01",
+      "summary": "Tutored for math subjects such as Calculus, Algebra",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Held group studies from calculus level math courses",
+        "Tutored in other subjects such as intro to programming"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Keck Observatory",
+      "position": "Akamai Workforce Initiative Intern",
+      "website": "http://www.wmkeck.org/",
+      "startDate": "2021-06-15",
+      "endDate": "2021-08-13",
+      "summary": "From the Akamai Workforce Initiative, worked at the Kec Observatory as an electrical engineer intern",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Reviewed existing designs & creating plans for integrating hardware",
+        "Implemented with Ladder Logic programming (RSLogix500 programming environment)",
+        "Presented project in a technical STEM format"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Moʻiliʻili Community Center",
+      "website": "https://www.moiliilicc.org/",
+      "position": "Japanese Tutor",
+      "startDate": "2019-10-08",
+      "endDate": "2020-01-20",
+      "summary": "Tutored kids at the community center with homework and learning Japanese",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Created a study plan for beginner Japanese learning"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "JASSO Scholarship",
+      "date": "2022",
+      "awarder": "Japan Government",
+      "summary": "The Japan Student Services Organization (JASSO) offers scholarships for qualified international students who are accepted by a Japanese university. I was accepted for one semester as an exchange student and awarded for my academic standings."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Alakaina Scholarship",
+      "date": "2019",
+      "awarder": "University of Hawaii at Kauai Community College",
+      "summary": "Before transferring to a 4-year institution, I was awarded with the Alakaina foundation  for a written essay about their passion for engineering and alongside their GPA of 3.5 and above."
     }
   ],
   "references": [
