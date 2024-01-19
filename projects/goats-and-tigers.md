@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/winning-state.png
 title: "Goats and Tigers"
 date: 2023
 published: true
