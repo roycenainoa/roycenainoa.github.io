@@ -30,9 +30,16 @@ There were quite a few answers provided since there are many ways to solve this 
 
 ### A bad question
 
-Now, much discussion went into what is a smart question, but what about an example of a bad question? Let's take a look at this question, "<a href="https://stackoverflow.com/questions/77882675/using-1-function-and-an-array-to-control-a-lot-of-button">Using 1 function and an array to control a lot of button</a>"
+Now, much discussion went into what is a smart question, but what about an example of a bad question? Let's take a look at this question, "<a href="https://stackoverflow.com/questions/77882675/using-1-function-and-an-array-to-control-a-lot-of-button">Using 1 function and an array to control a lot of button</a>". It can already be noticed that the title is vague and does not clearly indicate what problem the developer is facing or what they are asking. The question being asked revolves around a problem with controlling multiple buttons in an HTML file using a function. The developer attempted to create a function that takes the button number as input and uses an array to store the state and color information for each button. However, the function doesn't work as expected, and they seek help in troubleshooting the issue. Here is why this is NOT a smart question:
 
+1. Lack of Specificity: The question lacks specific details about the the program itself and had to edit the question to include the relevant HTML asked by a comment.
+2. Vague Description of Issue: The developer states that they don't know why the code doesn't work, but they don't provide any specific details or errors encountered.
+3. Assumption of Knowledge: The question assumes that readers will understand the context and requirements of the problem without providing sufficient background information as well.
+5. Limited Effort Shown: The question does not demonstrate any effort on the part of the developer to debug the problem themselves or provide additional information that could help diagnose the issue.
+6. Grammar and spelling: There is a lack of proper capitalization and punctuation in this question which many look at the question will not answer since this shows laziness on their part.
+
+The answer to the question are mostly of comments for clarification or pointing out potential mistakes on the developer. So because this question was not formulated to thoughtfully as a smart question, it could not receive an answer at all and was closed.
 
 ## Asking Good Questions is a Skill
 
-Asking the right questions will help you extract the answers you want. In most scenarios, it is not that the person answering is incapable, but you are not asking the right questions.
+Asking the right questions will help you extract the answers one wants. In most scenarios, it is not that the person answering is incapable, but you may not be asking the right questions. Asking questions is normal and perfectly fine, but in the field of software engineering, if your question is not well thought out, it may be wasting not only other's time, but your time as well. It can be seen in the examples above that for a smart question, the answers are concise and the asker gets exactly what they need to solve the problem. On the other hand, a not smart question can lead to more questions toward the asker in clarifying what they need. Software engineers value their time, and it's important to ask smart questions for both their learning outcome and saving time for everyone.
