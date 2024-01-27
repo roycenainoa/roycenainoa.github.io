@@ -11,7 +11,7 @@ labels:
   - Python
 summary: "This is an undergraduate project formerly known as Reinforcement Learning for Inferring Strageies that develops a reinforcement learning technique that trains a machine to play a board game known as Huligutta (Goats & Tigers)."
 ---
-<img class="img-fluid" src="../img/winning-state.png" style="width: 80%; height: auto;">
+<img class="img-fluid" src="../img/winning-state.png" style="width: 50%; height: auto;">
 
 ## Overview
 
