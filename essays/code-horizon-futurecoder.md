@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Code Horizon: futureCoder"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-18
+date: 2024-01-19
 published: true
 labels:
   - Engineering
@@ -19,4 +19,4 @@ I spent the last 5 years as an Electrical Engineering student and over the cours
 
 ## Beyond the Horizon as a Coder
 
-In the software engineering course thus far, I've developed a professional portfolio, learned how to code in Javascript and there are much more projects to be explored. I hope to improve on my problem solving skills, and take these assets with me for my future education and career. My long term goal is to enter graduate school pursuing a Data Science Master's Degree.
+In the software engineering course thus far, I've developed a professional portfolio, learned how to code in Javascript and there are much more projects to be explored. I hope to improve on my problem solving skills, and take these assets with me for my future education and career. I also hope to improve my configuration management skills with GitHub and other means. My long term goal is to enter graduate school pursuing a Data Science Master's Degree.
