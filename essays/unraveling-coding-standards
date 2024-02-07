@@ -1,0 +1,12 @@
+---
+layout: essay
+type: essay
+title: "Unraveling Coding Standards"
+# All dates must be YYYY-MM-DD format!
+date: 2024-02-06
+published: true
+labels:
+  - Engineering
+---
+
+*"The function of good software is to make the complex appear to be simple." - Grady Booch*
