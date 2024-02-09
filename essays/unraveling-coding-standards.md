@@ -22,4 +22,13 @@ int array(int arr[], int size) {
     return sum;}
 ```
 
-The code block above will compile and correctly calculate the sum of an array when the function is called. However, if someone has been programming for a long time and were to view this code block, there are clearly several mistakes if not errors in the code that do not follow coding standards. First of all, what is a coding standard? From the website [Codacy](https://blog.codacy.com/coding-standards#:~:text=Coding%20standards%2C%20also%20known%20as,and%20facilitate%20collaboration%20among%20developers.), Coding standards, also known as coding guidelines or programming style guides, are rules and conventions that developers follow when writing code. These rules define the code characteristics necessary to maintain a uniform codebase and facilitate collaboration among developers.
+The code block above will compile and correctly calculate the sum of an array when the function is called. However, if someone has been programming for a long time and were to view this code block, there are clearly several mistakes if not errors in the code that do not follow coding standards.
+
+## What is a Coding Standard?
+
+So what is a coding standard? From the website [Codacy](https://blog.codacy.com/coding-standards#:~:text=Coding%20standards%2C%20also%20known%20as,and%20facilitate%20collaboration%20among%20developers.), Coding standards, also known as coding guidelines or programming style guides, are rules and conventions that developers follow when writing code. These rules define the code characteristics necessary to maintain a uniform codebase and facilitate collaboration among developers. Referring to the C code block above again, if a conding standard were enforced on this, here are some issues in the code that would be changed:
+
+1. Naming: The name of function should be descriptive and reflect what the function does, let's rename it to sumArray. Also in Linux Kernel Coding Style, function names typically follow this camelCase convention.
+2. Indention: 
+
+In general coding standards may be ambiguous according to the description, but there are different standards that at 
