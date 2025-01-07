@@ -6,8 +6,8 @@
     "email": "royce9@hawaii.edu",
     "phone": "808-634-1433",
     "website": "https://roycenainoa.github.io",
-    "summary": "I am studying for a M.S. in Computer Science. I have graduated with a B.S. in Electrical Engineering at UH Manoa, but plan to continue my education in Germany.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a M.S. in Computer Science at the International University of Applied Sciences Berlin. ",
+    "location": { "address": "", "postalCode": "10369", "city": "Berlin", "countryCode": "GERMANY", "region": "Fennpfuhl" },
     "profiles": [
       { "network": "github", "username": "roycenainoa", "url": "http://github.com/roycenainoa" },
       { "network": "linkedin", "username": "roycecornwell", "url": "http://linkedin.com/in/royce-cornwell" }
