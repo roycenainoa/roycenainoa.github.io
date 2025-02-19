@@ -13,6 +13,8 @@ summary: "This is a software engineering project known as Manoa Reclaim, and for
 ---
 <img src="../img/Home.png" style="width: 50%; height: auto;">
 
+Manoa Reclaim Homepage (site is no longer available for view)
+
 ## Overview
 
 In the ICS 314 software engineering project, me and my class were tasks with creating a web application of our choosing. I used JavaScript using IntelliJ IDEA and managed our code with Git and GitHub. The project involved building web applications using the Meteor framework, integrating Bootstrap for design and React Router for navigation. The project I chose to create a web application for was Manoa Reclaim, a lost and found web app.
