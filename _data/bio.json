@@ -32,9 +32,18 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "International University of Applied Science, Berlin, Germany",
+      "area": "Computer Science",
+      "studyType": "M.Sc.",
+      "startDate": "2024-10-01",
+      "endDate": "2026-09-30 (expected)",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "University of Hawaii, Honolulu, USA",
       "area": "Electrical Engineering",
-      "studyType": "B.S.",
+      "studyType": "B.Sc.",
       "startDate": "2019-08-23",
       "endDate": "2023-12-15",
       "courses": [
