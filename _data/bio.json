@@ -6,28 +6,28 @@
     "email": "cornwellroyce@gmail.com",
     "phone": "+49 176 63864818",
     "website": "https://roycenainoa.github.io",
-    "summary": "Software engineer with a background in Electrical Engineering, currently pursuing an M.Sc. in Computer Science at the International University of Applied Sciences in Berlin (graduating Q3 2026). Proficient in Python, JavaScript, HTML5, and POSIX C, with experience in web development and a machine learning-based project. Skilled in team collaboration, bringing ideas that streamline development, as seen in my Lost and Found web app project. Passionate about problem-solving and the software engineering process, including documentation and iterative development. Seeking software engineering roles in Germany to grow and contribute to impactful projects. ",
-    "location": { "address": "", "postalCode": "10369", "city": "Berlin", "countryCode": "GERMANY", "region": "Fennpfuhl" },
+    "summary": "I’m a software engineer with a background in Electrical Engineering and currently working on my M.Sc. in Computer Science in Berlin (graduating Q3 2026). I have experience with Python, JavaScript, HTML5, and POSIX C through web and machine learning projects listed in my professional portfolio. I’m especially interested in backend development but also open to frontend or full-stack work. I enjoy working in teams, sharing ideas, and focusing on practical problem-solving and clear documentation. ",
+    "location": { "address": "", "postalCode": "13627", "city": "Berlin", "countryCode": "GERMANY", "region": "Berlin-Charlottenburg-Wilmersdorf" },
     "profiles": [
       { "network": "github", "username": "roycenainoa", "url": "http://github.com/roycenainoa" },
       { "network": "linkedin", "username": "roycecornwell", "url": "http://linkedin.com/in/royce-cornwell" }
     ]
   },
   "interests": [
-    { "name": "Machine Learning" },
+    { "name": "Full Stack Web Development" },
     { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
     { "name": "Circuit Design" },
-    { "name": "Language Studies" },
-    { "name": "Full Stack Web Development" }
+    { "name": "Language Studies" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "Assembly", "PLC Ladder Logic" ]
+      "keywords": [ "C", "C++", "Javascript", "Python", "PLC Ladder Logic" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub", "g++", "CLion" ]
+      "keywords": [ "Git/GitHub", "g++", "CLion", "IntelliJ" ]
     }
   ],
   "education": [
@@ -52,15 +52,15 @@
   ],
   "work": [
     {
-      "company": "University of Hawaii at Manoa",
-      "position": "NHSEMP Math Tutor",
-      "website": "https://hawaii.edu/nhsemp",
-      "startDate": "2021-09-04",
-      "endDate": "2022-05-01",
+      "company": "PhenoSys - Humboldt University",
+      "position": "Scientific Instrumentation",
+      "website": "www.phenosys.com",
+      "startDate": "2025-07-01",
+      "endDate": "2025-08-15",
       "summary": "Tutored for math subjects such as Calculus, Algebra",
       "highlights": [
-        "Held group studies from calculus level math courses",
-        "Tutored in other subjects such as intro to programming"
+        "Built and tested GPS trackers for hummingbird research, with supporting documentation",
+        "Helped develop PCB libraries for a neurosurgical tool used in rodent brain research (Arduino)."
       ]
     },
     {
