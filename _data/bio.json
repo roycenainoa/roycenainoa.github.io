@@ -23,11 +23,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "Python", "PLC Ladder Logic" ]
+      "keywords": [ "TypeScript", "Kotlin", "C", "C++", "Javascript", "Python", "PLC Ladder Logic" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub", "g++", "CLion", "IntelliJ" ]
+      "keywords": [ "Git/GitHub", "VS Code", "g++", "CLion", "IntelliJ", "Terminal / Unix-Linux shell (iTerm2)" ]
+    },
+    {
+      "name": "Engineering Tools & Practices",
+      "keywords": [ "Jira", "Confluence", "Docker", "Liquibase", "Metabase", "AI-assisted development (Claude Code)", "Test-Driven Development" ]
     }
   ],
   "education": [
@@ -63,7 +67,8 @@
         "Investigated and resolved a data-access bug affecting a large volume of records, then delivered the underlying schema fix",
         "Shipped full-stack features across TypeScript and Kotlin, including a new user-facing display and a new field threaded through the front end, backend, and PDF templating layer",
         "Delivered independent backend work with the Practice Operations team on an unfamiliar codebase (Spring Boot / Kotlin / PostgreSQL), including a database migration and domain modeling with test-driven development",
-        "Wrote developer documentation adopted by the team and diagnosed and fixed local developer-tooling issues, sharing the fix with the wider team"
+        "Wrote developer documentation adopted by the team and diagnosed and fixed local developer-tooling issues, sharing the fix with the wider team",
+        "Validated appointment-update behavior by querying the database directly, confirming that each change correctly produced its corresponding record"
       ]
     },
     {
