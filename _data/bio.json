@@ -6,7 +6,7 @@
     "email": "cornwellroyce@gmail.com",
     "phone": "+49 176 63864818",
     "website": "https://roycenainoa.github.io",
-    "summary": "I’m a software engineer with a background in Electrical Engineering and currently working on my M.Sc. in Computer Science in Berlin (graduating Q3 2026). I have experience with Python, JavaScript, HTML5, and POSIX C through web and machine learning projects listed in my professional portfolio. I’m especially interested in backend development but also open to frontend or full-stack work. I enjoy working in teams, sharing ideas, and focusing on practical problem-solving and clear documentation. ",
+    "summary": "I’m a software engineer with a background in Electrical Engineering, finishing my Computer Science degree in Berlin (graduating Q4 2026 / Q1 2027). I have professional experience with TypeScript and Kotlin, along with JavaScript, HTML5, and POSIX C through web and machine learning projects. During a recent software engineering internship, I took ownership of an ambiguous technical scope end-to-end — reconciling conflicting requirements, aligning stakeholders across two teams, and delivering a complete, engineering-ready backlog for a regulatory compliance project, while shipping full-stack features from the database layer through the UI. I care about practical problem-solving and clear documentation, and I enjoy working across the stack, whether that's backend, frontend, or full-stack. ",
     "location": { "address": "", "postalCode": "13627", "city": "Berlin", "countryCode": "GERMANY", "region": "Berlin-Charlottenburg-Wilmersdorf" },
     "profiles": [
       { "network": "github", "username": "roycenainoa", "url": "http://github.com/roycenainoa" },
@@ -51,6 +51,21 @@
     }
   ],
   "work": [
+    {
+      "company": "Doctolib",
+      "position": "Software Engineering Intern",
+      "website": "https://www.doctolib.com",
+      "startDate": "2026-03-01",
+      "endDate": "2026-08-31",
+      "summary": "Software engineering intern at Doctolib, working full-stack on e-prescription with the Clinical team and full-stack on patient intake with the Practice Operations team.",
+      "highlights": [
+        "Owned technical scoping for an e-prescription print-layout migration end-to-end: reproduced current behavior, reconciled conflicting design and specification sources, and produced a complete, engineering-ready backlog with acceptance criteria",
+        "Investigated and resolved a data-access bug affecting a large volume of records, then delivered the underlying schema fix",
+        "Shipped full-stack features across TypeScript and Kotlin, including a new user-facing display and a new field threaded through the front end, backend, and PDF templating layer",
+        "Delivered independent backend work with the Practice Operations team on an unfamiliar codebase (Spring Boot / Kotlin / PostgreSQL), including a database migration and domain modeling with test-driven development",
+        "Wrote developer documentation adopted by the team and diagnosed and fixed local developer-tooling issues, sharing the fix with the wider team"
+      ]
+    },
     {
       "company": "PhenoSys - Humboldt University",
       "position": "Scientific Instrumentation",
