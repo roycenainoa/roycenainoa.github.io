@@ -2,12 +2,11 @@
   "basics": {
     "name": "Royce Cornwell",
     "label": "Software Engineer",
-    "picture": "https://github.com/roycenainoa.png",
+    "picture": "https://roycenainoa.github.io/img/profile.jpg",
     "email": "cornwellroyce@gmail.com",
-    "phone": "+49 176 63864818",
     "website": "https://roycenainoa.github.io",
     "summary": "I’m a software engineer with a background in Electrical Engineering, finishing my Computer Science degree in Berlin (graduating Q4 2026 / Q1 2027). I have professional experience with TypeScript and Kotlin, along with JavaScript, HTML5, and POSIX C through web and machine learning projects. During a recent software engineering internship, I took ownership of an ambiguous technical scope end-to-end — reconciling conflicting requirements, aligning stakeholders across two teams, and delivering a complete, engineering-ready backlog for a regulatory compliance project, while shipping full-stack features from the database layer through the UI. I care about practical problem-solving and clear documentation, and I enjoy working across the stack, whether that's backend, frontend, or full-stack. ",
-    "location": { "address": "", "postalCode": "13627", "city": "Berlin", "countryCode": "GERMANY", "region": "Berlin-Charlottenburg-Wilmersdorf" },
+    "location": { "city": "Berlin", "countryCode": "GERMANY" },
     "profiles": [
       { "network": "github", "username": "roycenainoa", "url": "http://github.com/roycenainoa" },
       { "network": "linkedin", "username": "roycecornwell", "url": "http://linkedin.com/in/royce-cornwell" }

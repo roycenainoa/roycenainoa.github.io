@@ -1,0 +1,146 @@
+/* Royce Theme: custom theme with a single teal accent, Inter/Sora fonts,
+   pill-style tags, and subtle card motion. Built to stay professional —
+   one accent color, restrained motion, no gradients or heavy effects. */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@400;600;700&display=swap");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-accent: #0f766e;
+  --tf-accent-dark: #0b5d57;
+  --tf-accent-light: #ccfbf1;
+  --bs-font-sans-serif: "Inter", sans-serif;
+  --bs-body-color: #1e293b;
+  --bs-link-color: var(--tf-accent);
+  --bs-link-hover-color: var(--tf-accent-dark);
+  --tf-pill-bg: var(--tf-accent-light);
+  --tf-icon-fill: #64748b;
+  --tf-icon-hover: var(--tf-accent);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: #f8fafc;
+  --tf-projects-bg-color: #f8fafc;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: "Sora", sans-serif;
+  color: #0f172a;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-icon-fill);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+/* ---- Header ---- */
+.navbar {
+  border-bottom: 3px solid var(--tf-accent) !important;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--tf-accent);
+}
+
+/* ---- Footer ---- */
+footer.navbar {
+  border-top: 3px solid var(--tf-accent) !important;
+  border-bottom: none !important;
+}
+
+/* ---- Profile photo (home page) ---- */
+.rounded-circle {
+  border: 4px solid var(--tf-accent-light);
+  box-shadow: 0 0 0 2px var(--tf-accent);
+}
+
+/* ---- Section labels (resume page: Interests, Skills, Education, Work...) ---- */
+.section-label {
+  position: relative;
+  padding-left: 0.9rem;
+}
+
+.section-label::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.15em;
+  bottom: 0.15em;
+  width: 4px;
+  border-radius: 2px;
+  background: var(--tf-accent);
+}
+
+/* ---- Pill-style tags (interests, skills) ---- */
+.tf-pill {
+  display: inline-block;
+  background: var(--tf-accent-light);
+  color: var(--tf-accent-dark);
+  border-radius: 999px;
+  padding: 0.25rem 0.75rem;
+  margin: 0.2rem 0.3rem 0.2rem 0;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+/* ---- Cards (projects, essays) ---- */
+.card {
+  border: 1px solid #e2e8f0;
+  border-radius: 0.75rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px -10px rgba(15, 23, 42, 0.25);
+}
+
+.badge.rounded-pill {
+  background-color: var(--tf-accent-light) !important;
+  color: var(--tf-accent-dark) !important;
+  font-weight: 500;
+}
+
+/* ---- Buttons ---- */
+.btn-outline-dark {
+  color: var(--tf-accent-dark);
+  border-color: var(--tf-accent);
+}
+
+.btn-outline-dark:hover {
+  background-color: var(--tf-accent);
+  border-color: var(--tf-accent);
+  color: #fff;
+}
+
+/* ---- Misc ---- */
+hr {
+  border-top: 2px solid var(--tf-accent-light);
+  opacity: 1;
+}
+
+.card-footer {
+  background-color: var(--bs-white);
+  border-top: none;
+}
