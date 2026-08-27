@@ -5,7 +5,7 @@
     "picture": "https://roycenainoa.github.io/img/profile.jpg",
     "email": "cornwellroyce@gmail.com",
     "website": "https://roycenainoa.github.io",
-    "summary": "I’m a software engineer with a background in Electrical Engineering, finishing my Computer Science degree in Berlin (graduating Q4 2026 / Q1 2027). I have professional experience with TypeScript and Kotlin, along with JavaScript, HTML5, and POSIX C through web and machine learning projects. During a recent software engineering internship, I took ownership of an ambiguous technical scope end-to-end — reconciling conflicting requirements, aligning stakeholders across two teams, and delivering a complete, engineering-ready backlog for a regulatory compliance project, while shipping full-stack features from the database layer through the UI. I care about practical problem-solving and clear documentation, and I enjoy working across the stack, whether that's backend, frontend, or full-stack. ",
+    "summary": "Software engineer focused on backend, full-stack, and event-driven development, currently completing an M.Sc. in Computer Science in Berlin. I build and ship features across the database, backend, and UI layers, scope ambiguous problems end-to-end, and place a strong emphasis on reliable, well-tested, and clearly documented software.",
     "location": { "city": "Berlin", "countryCode": "GERMANY" },
     "profiles": [
       { "network": "github", "username": "roycenainoa", "url": "http://github.com/roycenainoa" },
@@ -21,16 +21,16 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "TypeScript", "Kotlin", "C", "C++", "Javascript", "Python", "PLC Ladder Logic" ]
+      "name": "Languages",
+      "keywords": [ "TypeScript", "Kotlin", "Python", "JavaScript", "SQL", "C", "C++" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub", "VS Code", "g++", "CLion", "IntelliJ", "Terminal / Unix-Linux shell (iTerm2)" ]
+      "name": "Frameworks & Databases",
+      "keywords": [ "React", "Spring Boot", "Ruby on Rails", "Kafka", "PostgreSQL", "Liquibase" ]
     },
     {
-      "name": "Engineering Tools & Practices",
-      "keywords": [ "Jira", "Confluence", "Docker", "Liquibase", "Metabase", "AI-assisted development (Claude Code)", "Test-Driven Development" ]
+      "name": "Tools & Practices",
+      "keywords": [ "Git", "Docker", "Jira", "Confluence", "Test-Driven Development", "Technical Scoping & Documentation", "AI-assisted development (Claude Code)" ]
     }
   ],
   "education": [
@@ -63,7 +63,7 @@
       "summary": "Software engineering intern at Doctolib, working full-stack on e-prescription with the Clinical team and full-stack on patient intake with the Practice Operations team.",
       "highlights": [
         "Owned technical scoping for an e-prescription print-layout migration end-to-end: reproduced current behavior, reconciled conflicting design and specification sources, and produced a complete, engineering-ready backlog with acceptance criteria",
-        "Investigated and resolved a data-access bug affecting a large volume of records, then delivered the underlying schema fix",
+        "Investigated a data-access issue that locked practitioners out of prescriptions after patient-record merges — traced the root cause through the Ruby on Rails monolith and shipped a safe, batched background migration to remove the underlying schema dependency",
         "Shipped full-stack features across TypeScript and Kotlin, including a new user-facing display and a new field threaded through the front end, backend, and PDF templating layer",
         "Delivered independent backend work with the Practice Operations team on an unfamiliar codebase (Spring Boot / Kotlin / PostgreSQL), including a database migration and domain modeling with test-driven development",
         "Wrote developer documentation adopted by the team and diagnosed and fixed local developer-tooling issues, sharing the fix with the wider team",
@@ -72,27 +72,26 @@
     },
     {
       "company": "PhenoSys - Humboldt University",
-      "position": "Scientific Instrumentation",
+      "position": "Scientific Instrumentation — Working Student",
       "website": "www.phenosys.com",
       "startDate": "2025-07-01",
       "endDate": "2025-08-15",
-      "summary": "Tutored for math subjects such as Calculus, Algebra",
+      "summary": "Working student building and testing scientific-instrumentation hardware for neuroscience research",
       "highlights": [
         "Built and tested GPS trackers for hummingbird research, with supporting documentation",
         "Helped develop PCB libraries for a neurosurgical tool used in rodent brain research (Arduino)."
       ]
     },
     {
-      "company": "Keck Observatory",
-      "position": "Akamai Workforce Initiative Intern",
+      "company": "W.M. Keck Observatory",
+      "position": "Engineering Intern, Akamai Workforce Initiative",
       "website": "http://www.wmkeck.org/",
       "startDate": "2021-06-15",
       "endDate": "2021-08-13",
-      "summary": "From the Akamai Workforce Initiative, worked at the Kec Observatory as an electrical engineer intern",
+      "summary": "Modernized safety controls for a high-powered laser system as an Akamai Workforce Initiative intern",
       "highlights": [
-        "Reviewed existing designs & creating plans for integrating hardware",
-        "Implemented with Ladder Logic programming (RSLogix500 programming environment)",
-        "Presented project in a technical STEM format"
+        "Upgraded the safety-control system for a high-powered laser: updated PLC ladder-logic (RSLogix500) to meet safety standards, designed wire layouts, and wired Lock-Out-Tag-Out (LOTO) switches",
+        "Tested and verified PLC functionality and presented the project in a technical format"
       ]
     }
   ],
