@@ -13,11 +13,11 @@
     ]
   },
   "interests": [
-    { "name": "Full Stack Web Development" },
-    { "name": "Software Engineering" },
+    { "name": "Backend Development" },
+    { "name": "Full-Stack Web Development" },
+    { "name": "Event-Driven & Distributed Systems" },
     { "name": "Machine Learning" },
-    { "name": "Circuit Design" },
-    { "name": "Language Studies" }
+    { "name": "Healthcare Technology" }
   ],
   "skills": [
     {
