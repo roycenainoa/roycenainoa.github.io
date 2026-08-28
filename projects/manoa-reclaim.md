@@ -6,39 +6,38 @@ title: "Manoa Reclaim"
 date: 2024
 published: true
 labels:
-  - Web Applications
-  - Project Development
-  - Software Engineering
-summary: "This is a software engineering project known as Manoa Reclaim, and for the project I designed a Lost and Found web application with other team members using software engineering concepts taught through the course."
+  - Meteor
+  - React
+  - JavaScript
+  - Bootstrap
+  - MongoDB
+summary: "A lost-and-found web app for University of Hawaiʻi students, built with a team using Meteor, React, and Bootstrap in a software-engineering course."
 ---
-<img src="../img/Home.png" style="width: 50%; height: auto;">
 
-Manoa Reclaim Homepage (site is no longer available for view)
+**Source:** [GitHub](https://github.com/manoa-reclaim/Manoa-reclaim-app) &nbsp;·&nbsp; [Project homepage](https://manoa-reclaim.github.io/) &nbsp;·&nbsp; Meteor · React · MongoDB
 
-## Overview
+<img class="img-fluid" src="../img/Home.png" style="width:100%; max-width:760px; border:1px solid #e5e7eb; border-radius:6px;">
 
-In the ICS 314 software engineering project, me and my class were tasks with creating a web application of our choosing. I used JavaScript using IntelliJ IDEA and managed our code with Git and GitHub. The project involved building web applications using the Meteor framework, integrating Bootstrap for design and React Router for navigation. The project I chose to create a web application for was Manoa Reclaim, a lost and found web app.
+## About
 
-The Manoa Reclaim web app designed for University of Hawaii (UH) Students simplifies returning lost items such as wallets and phones for owners. It features lists of lost and found items, including their locations. Users can post lost items and browse these lists. Found items placed in specific areas, such as the Campus Center and ID Office, can have messaging disabled to streamline the recovery process. Manoa Reclaim allows students to quickly find items lost on campus and allows people to easily turn in items they find.
+In the ICS 314 software-engineering course, my team built a web application of our choice; I chose **Manoa Reclaim**, a lost-and-found app for UH students. It lets students post lost items and browse lists of lost and found items along with their locations — so someone who finds an item can quickly get it back to the owner. It's built on the **Meteor** framework with **React Router** for navigation and **Bootstrap** for the UI, managed with Git and GitHub.
 
-## Interim
+## What I built
 
-In the image above, you can see the landing page of the Manoa Reclaim website. When a student registers with their UH email, they can register a lost item they found or list items that have been reported lost in the database. I was responsible for testing the page and creating mockups for several web pages, but one key feature I wanted to implement in the project is a Google Maps API for users to mark the location the item was found.
+I was responsible for testing pages and building mockups, and I implemented a **Google Maps** feature so a user can mark exactly where an item was found — stored as latitude/longitude and viewable by other students and by the admins overseeing the items.
 
-<img class="img-fluid" src="../img/Register.png" style="width: 50%; height: auto;">
+**Register a found item:**
 
-Here you can see the Register Lost Item page
+<img class="img-fluid" src="../img/Register.png" style="width:100%; max-width:760px; border:1px solid #e5e7eb; border-radius:6px;">
 
-<img class="img-fluid" src="../img/Maps.png" style="width: 50%; height: auto;">
+**Mark the location on a map:**
 
-And here in the form, you can mark the location of the item where it was recovered using Google Maps. The location is then tracked using latitude and longitude coordinates where other users, including the admins in charge of overseeing the items can view the lost item and open the links to the coordinates the item was retrieved.
+<img class="img-fluid" src="../img/Maps.png" style="width:100%; max-width:760px; border:1px solid #e5e7eb; border-radius:6px;">
 
-<img class="img-fluid" src="../img/ItemList.png" style="width: 50%; height: auto;">
+**Browse the item list:**
 
-## Conclusion
+<img class="img-fluid" src="../img/ItemList.png" style="width:100%; max-width:760px; border:1px solid #e5e7eb; border-radius:6px;">
 
-Although Manoa Reclaim has much fine tuning such as adding images to view the item, contact information and more. This project, Manoa Reclaim, offered valuable experience as a software engineer when getting a project off the ground. One valuable tool my team mates and I have utilized is the Issue Driven Project Management (IDPM) to help manage the workflow of the project. Logging hours worked on a task, splitting one task into subtasks and managing time helped streamline development of Manoa Reclaim. At this time, I hope to improve Manoa Reclaim so that UH students can find this web application useful.
+## Learning outcome
 
-If interested in the project, here is the projects documentation and source code:
-- [Homepage](https://manoa-reclaim.github.io/)
-- [Source Code (GitHub)](https://github.com/manoa-reclaim/Manoa-reclaim-app)
+This was valuable experience getting a real software project off the ground. My team used **Issue-Driven Project Management (IDPM)** — logging hours per task, splitting tasks into subtasks, and managing time — which kept the workflow organized from start to finish.
