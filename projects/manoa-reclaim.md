@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lost-and-found.png
+image: img/Home.png
 title: "Manoa Reclaim"
 date: 2024
 published: true
